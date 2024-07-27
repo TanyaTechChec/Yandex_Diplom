@@ -1,0 +1,44 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+VENV/
+*.egg
+*.egg-info
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+*.log
+*.pot
+*.pyc
+.DS_Store
+*.so
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+instance/
+.webassets-cache
+.cache/
+.nox/
+*.coverage
+
+# PyCharm
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
